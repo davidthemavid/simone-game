@@ -9,6 +9,7 @@ It provided some good testing & problem solving practice to get the game mechani
 Instructions:
 
 Press A to start a new game... or don't, and see where that gets you.
+
 Observe Simone's pattern & repeat it to advance to the next level.
 
 How good is YOUR memory?
